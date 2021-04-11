@@ -7,7 +7,7 @@
 It's a working title...
 
 ### Description
-Describe what your project is about and what it does
+This project is the final step before I get my Nanodegree from Udacity. I'm thrilled to be closing in on my goal.
 
 ### Files used
 Include the files used
