@@ -1,7 +1,6 @@
 >**Note**: this was **Forked** from the Udacity Git as part of an exercise
 
-### Date created
-Include the date you created this project and README file.
+### Date created: 04/11/2021
 
 ### Project Title
 Replace the Project Title
