@@ -2,8 +2,9 @@
 
 ### Date created: 04/11/2021
 
-### Project Title
-Replace the Project Title
+### Project Title:
+**How to write commit messages properly after learning to read directions**
+It's a working title...
 
 ### Description
 Describe what your project is about and what it does
