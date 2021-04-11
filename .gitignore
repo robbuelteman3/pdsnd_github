@@ -1,0 +1,6 @@
+# This is a Git Ignore file #
+# Created by Rob Buelteman III on 04/11/2021 #
+# For Udacity's Python for Data Science Nano Degree #
+
+# Ignore CSV files used to create Data Frame objects within the script #
+*.csv
