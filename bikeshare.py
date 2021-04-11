@@ -1,3 +1,11 @@
+"""
+This script was written by Robert Buelteman III 
+03/2021
+For Udacity's Data Science with Python Nanodegree
+robbuelteman3@gmail.com
+Certain sections were completed with help from the student community & Github
+"""
+
 import time
 import pandas as pd
 import numpy as np
