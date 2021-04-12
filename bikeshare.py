@@ -81,7 +81,7 @@ def load_data(city, month, day):
     # load data for city
     # create DataFrame object using Pandas Package in Python
     # tell Pandas to read the CSV data for the city terurned above
-    print("\nLoading target city data...")
+    print("\nLoading target city data for human user...")
     df = pd.read_csv(CITY_DATA[city])
 
     # convert the Start Time column to datetime
