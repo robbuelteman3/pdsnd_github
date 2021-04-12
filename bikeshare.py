@@ -256,7 +256,6 @@ def user_stats(df):
     parameter 1, (df) the Pandas DataFrame you wish to analyze
     Returns:
     none.
-
     """
 
     print('\nCalculating User Stats...\n')
@@ -296,6 +295,13 @@ def user_stats(df):
 
 
 def main():
+"""
+This function runs the script itself. Called by bottom text.
+Arguments: 
+none
+Returns: 
+none
+"""
 
     while True:
         city, month, day = get_filters()
